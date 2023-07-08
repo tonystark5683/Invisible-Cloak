@@ -25,7 +25,7 @@ This project aims to recreate the magical effect of Harry Potter's Invisible Clo
 
 ## Usage
 
-1. Clone the project repository: `git clone https://github.com/your-username/invisible-cloak.git`
+1. Clone the project repository: `git clone https://github.com/tonystark5683/Invisible-Cloak.git`
 
 2. Install the necessary dependencies: `pip install opencv-python`
 
@@ -36,8 +36,9 @@ This project aims to recreate the magical effect of Harry Potter's Invisible Clo
 ## Credits
 
 This project was inspired by the famous Harry Potter series and is created as a learning exercise in computer vision using OpenCV and Python.
+
 ## Certificate
-![Certificate 1](images/certificate1.png)
-![Certificate 2](images/certificate2.png)
+![Certificate 1](images/certificate1.jpg)
+![Certificate 2](images/certificate2.jpg)
 
 
